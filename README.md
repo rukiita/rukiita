@@ -22,6 +22,10 @@ I'm Teruki, Frontend Developer with 2+ years of professional experience based in
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## My Side Projects
+**Github Repository Explorer** an application that was created over five days with the goal of validating technologies, confirming knowledge, and tackling practical coding challenges.
+
+We specifically tested the manipulation and persistence of query parameters, along with the subsequent optimization of data caching. Furthermore, we verified three different data fetching and display patterns (Client, Server, and Hybrid) to explore methods for improving the User Experience (UX).
+
 
 
 
