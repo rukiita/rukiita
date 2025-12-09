@@ -42,6 +42,8 @@ This project was conceived as a "Level-Up Challenge" following a Todo App, compl
 I confirmed implementations that are frequently used in production,Chart visualization, debouncing and suggestion functionality, pagination, and rate toggling.
 Furthermore, I plan to utilize this project as a foundation to practice real-time data processing, leveraging the inherent characteristics of cryptocurrency data.
 
+### [Repository](https://github.com/rukiita/crypto-dashboard)
+
 ***
 [***Basic Todo App***](https://github.com/rukiita/todo-app)
 
