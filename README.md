@@ -45,7 +45,7 @@ Furthermore, I plan to utilize this project as a foundation to practice real-tim
 ***
 [***Basic Todo App***](https://github.com/rukiita/todo-app)
 
-This Todo application is a project designed as a coding challenge.
+This Todo application is a project designed as a coding challenge within a 3-day deadline.
 
 It was developed using the MERN stack (MongoDB, Express, React, Node.js), with the goal of covering both test design and implementation.
 
