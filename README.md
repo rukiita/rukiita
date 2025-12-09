@@ -28,6 +28,8 @@ An application that was created over five days with the goal of validating techn
 
 We specifically tested the manipulation and persistence of query parameters, along with the subsequent optimization of data caching. Furthermore, we verified three different data fetching and display patterns - CSR, SSR(Progressive Rendering), and Hybrid(SSR+CSR) - to explore methods for improving the User Experience (UX).
 
+### [Repository](https://github.com/rukiita/github-repository-explorer)
+
 ### Short Report
 ![1209](https://github.com/user-attachments/assets/1da88115-4c3e-4e39-948a-46ecafc46c6f)
 
