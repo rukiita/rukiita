@@ -1,4 +1,4 @@
-## Hi!👋 Nice to meet you 😎
+## Hi!👋 Nice to meet you 😎 
 
 I'm Teruki, Frontend Developer with 1+ years of professional experience based in Japan,Tokyo🗾
 
@@ -21,10 +21,11 @@ I'm Teruki, Frontend Developer with 1+ years of professional experience based in
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## My Side Projects
-[***Github Repository Explorer***](https://github-repository-explorer-orcin.vercel.app/)
 
-An application that was created over five days with the goal of validating technologies, confirming knowledge.
+## My Side Projects
+[***Github Repository Explorer***](https://github-repository-explorer-orcin.vercel.app/)　　
+
+An application that was created over 5 days with the goal of validating technologies, confirming knowledge.
 
 We specifically tested the manipulation and persistence of query parameters, along with the subsequent optimization of data caching. Furthermore, we verified three different data fetching and display patterns - CSR, SSR(Progressive Rendering), and Hybrid(SSR+CSR) - to explore methods for improving the User Experience (UX).
 
@@ -32,7 +33,21 @@ We specifically tested the manipulation and persistence of query parameters, alo
 
 ### Short Report
 ![1209](https://github.com/user-attachments/assets/1da88115-4c3e-4e39-948a-46ecafc46c6f)
+>>
+***
+[***Simple Crypto Dashboard***](https://crypto-dashboard-seven-psi.vercel.app/)
 
+This project was conceived as a "Level-Up Challenge" following a Todo App, completed within a strict 3-day deadline.
+
+I confirmed implementations that are frequently used in production,Chart visualization, debouncing and suggestion functionality, pagination, and rate toggling.
+Furthermore, I plan to utilize this project as a foundation to practice real-time data processing, leveraging the inherent characteristics of cryptocurrency data.
+
+***
+[***Basic Todo App***](https://github.com/rukiita/todo-app)
+
+This Todo application is a project designed as a coding challenge.
+
+It was developed using the MERN stack (MongoDB, Express, React, Node.js), with the goal of covering both test design and implementation.
 
 <!--
 **rukiita/rukiita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
