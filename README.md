@@ -24,6 +24,14 @@ I'm Teruki, Frontend Developer with 1+ years of professional experience based in
 
 ## My Side Projects
 
+[**_JS Rendering Engine Simulator_**](https://js-rendering-engine-lukiitas-projects.vercel.app/)
+
+I developed a JS Rendering Engine Simulator to master the intricacies of web performance. By simulating the Critical Rendering Path, the Preload Scanner, and the lifecycle of JS parsing and execution, this application provides a systematic framework for understanding browser internals. It highlights exactly where and how JavaScript coding choices impact performance, turning abstract concepts into actionable engineering insights.
+
+
+---
+
+
 [**_Github Repository Explorer_**](https://github-repository-explorer-orcin.vercel.app/)
 
 An application that was created over 5 days with the goal of validating technologies, confirming knowledge.
@@ -42,6 +50,7 @@ This project was conceived as a "Level-Up Challenge" following a Todo App, compl
 
 I confirmed implementations that are frequently used in production,Chart visualization, debouncing and suggestion functionality, pagination, and rate toggling.
 Furthermore, I plan to utilize this project as a foundation to practice real-time data processing, leveraging the inherent characteristics of cryptocurrency data.
+
 
 <!--
 
