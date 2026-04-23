@@ -1,6 +1,6 @@
 ## Hi!👋 Nice to meet you 😎
 
-I'm Teruki, Frontend Developer with 1+ years of professional experience based in Japan,Tokyo🗾
+I'm Teruki, Frontend Developer with 2+ years of professional experience based in Japan,Tokyo🗾
 
 ### What I use in coding
 
