@@ -26,8 +26,8 @@ I'm Teruki, Frontend Developer with 2+ years of professional experience based in
 
 **_Weird — explore the weird phenomena_**
 
-<img width="2560" height="1440" alt="weird-thumbnail-16x9-2560" src="https://github.com/user-attachments/assets/f0168ed1-2025-4f0a-ab02-36928998b2f6" />
-
+[<img width="2560" height="1440" alt="weird-thumbnail-16x9-2560" src="https://github.com/user-attachments/assets/f0168ed1-2025-4f0a-ab02-36928998b2f6" />
+](https://youtu.be/i2j6v8yKMUI?si=iRwa38owNNCIjsVx)
 
 A mobile app for recording the unexplained — Time leap, UFOs, Other world — on a map, right where it happened. You can read what happened nearby, post your own experience, and dig into it with others in the comments. I built it end to end: the database, the backend, the app and the demo video.
 
@@ -38,7 +38,7 @@ A mobile app for recording the unexplained — Time leap, UFOs, Other world — 
 - **Japanese and English** — Lingui (ICU messages) and `Intl`, switchable in the app.
 - **Promo made in code** — the demo video and store images are rendered with Remotion from the app's own design tokens and strings.
 
-`React Native` `Expo` `TypeScript` `TanStack Query` `Zustand` `Supabase` `PostGIS` `Edge Functions` `RevenueCat` `Lingui` `Remotion`
+`React Native` `Expo` `TypeScript` `TanStack Query` `Zustand` `Supabase` `PostGIS` `Edge Functions` `RevenueCat` `Lingui` `Remotion` `Seedream`
 
 
 ---
