@@ -24,6 +24,25 @@ I'm Teruki, Frontend Developer with 2+ years of professional experience based in
 
 ## My Side Projects
 
+**_Weird — explore the weird phenomena_**
+
+<img width="2560" height="1440" alt="weird-thumbnail-16x9-2560" src="https://github.com/user-attachments/assets/f0168ed1-2025-4f0a-ab02-36928998b2f6" />
+
+
+A mobile app for recording the unexplained — Time leap, UFOs, Other world — on a map, right where it happened. You can read what happened nearby, post your own experience, and dig into it with others in the comments. I built it end to end: the database, the backend, the app and the demo video.
+
+- **Location at the core** — posts are PostGIS geography points, so "similar experiences within 500 m" comes straight from the database.
+- **Trust you can read** — every post gets a trust score from how detailed it is, the author's track record and whether it was edited.
+- **Safe by design** — row-level security with column-level grants, anonymous posts masked on the server, and report / block / hide for user content.
+- **Weird+** — search is a subscription through RevenueCat, with the SDK kept inside a single module.
+- **Japanese and English** — Lingui (ICU messages) and `Intl`, switchable in the app.
+- **Promo made in code** — the demo video and store images are rendered with Remotion from the app's own design tokens and strings.
+
+`React Native` `Expo` `TypeScript` `TanStack Query` `Zustand` `Supabase` `PostGIS` `Edge Functions` `RevenueCat` `Lingui` `Remotion`
+
+
+---
+
 [**_JS Rendering Engine Simulator_**](https://js-rendering-engine-lukiitas-projects.vercel.app/)
 
 I developed a JS Rendering Engine Simulator to master the intricacies of web performance. By simulating the Critical Rendering Path, the Preload Scanner, and the lifecycle of JS parsing and execution, this application provides a systematic framework for understanding browser internals. It highlights exactly where and how JavaScript coding choices impact performance, turning abstract concepts into actionable engineering insights.
