@@ -2,6 +2,9 @@
 
 I'm Teruki, Frontend Developer with 2+ years of professional experience based in Japan,Tokyo🗾
 
+### contact
+lukiitaengineer@gmail.com
+
 ### What I use in coding
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
